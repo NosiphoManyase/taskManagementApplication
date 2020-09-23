@@ -1,0 +1,19 @@
+Total number of users generated through program: 2
+
+User admin has	: 1 total task(s).
+User admin has	: 25.0% of all task(s).
+User admin has	: 100.0% of task(s) incomplete. 
+User admin has	: 0.0% of task(s) completed. 
+User admin has	: 33.33333333333333% of task(s) overdue. 
+
+User nosi has	: 1 total task(s).
+User nosi has	: 25.0% of all task(s).
+User nosi has	: 100.0% of task(s) incomplete. 
+User nosi has	: 0.0% of task(s) completed. 
+User nosi has	: 33.33333333333333% of task(s) overdue. 
+
+User Tumi has	: 0 total task(s).
+User Tumi has	: 0.0% of all task(s).
+User Tumi has	: 0% of task(s) incomplete. 
+User Tumi has	: 0.0% of task(s) completed. 
+User Tumi has	: 0.0% of task(s) overdue. 
